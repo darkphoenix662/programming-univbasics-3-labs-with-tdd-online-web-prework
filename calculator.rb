@@ -13,8 +13,6 @@ def operation
     return "multiply"
   elsif operation == 4
     return "divide"
-  else
-    return "error"
   end
   
 def calculate
