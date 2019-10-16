@@ -1,6 +1,6 @@
-first_number =
-second_number =
-operation =
+first_number = 5
+second_number = 5
+operation = *
 
 def operation
   puts "Type 1 to add, 2 to subtract, 3 to multiply, or 4 to divide 2 numbers"
