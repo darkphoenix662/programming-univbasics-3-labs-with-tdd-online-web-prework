@@ -27,3 +27,4 @@ def calculate
   elsif operator == "divide"
     return first_number / second_number
   end
+end
