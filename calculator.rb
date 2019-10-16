@@ -5,9 +5,12 @@ def operation
     return "add"
   elsif operation == 2
     return "subract"
-  if operation ==3
+  elsif operation ==3
     return "multiply"
-  if operation == 4
+  elsif operation == 4
     return "divide"
-    
-    
+  else
+    return "error"
+  end
+  
+def calculate
