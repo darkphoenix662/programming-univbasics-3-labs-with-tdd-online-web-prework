@@ -1,3 +1,7 @@
+first_number =
+second_number =
+operation =
+
 def operation
   puts "Type 1 to add, 2 to subtract, 3 to multiply, or 4 to divide 2 numbers"
   
