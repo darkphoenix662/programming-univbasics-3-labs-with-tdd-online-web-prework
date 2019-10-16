@@ -14,3 +14,12 @@ def operation
   end
   
 def calculate
+  if operator == "add"
+    return first_number + second_number
+  elsif operator == "subract"
+    return first_number - second_number
+  elsif operator == "multiply"
+    return first_number * second_number
+  elsif operator == "divide"
+    return first_number / second_number
+  end
